@@ -1,4 +1,3 @@
-```markdown
 # 🎉 Your Birthday Present 🎉
 
 **Your Birthday Present** is a fun and interactive React application designed to make gift-giving more exciting! This project transforms the usual gift delivery into a delightful experience through an engaging quiz that leads to a special downloadable gift.
@@ -44,12 +43,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to all the contributors and resources that made this project possible!
 
 Happy quizzing! 🎊
-```
 
 ---
 
 
-```markdown
 # 🎉 Your Birthday Present 🎉
 
 **Your Birthday Present** è un'applicazione React divertente e interattiva progettata per rendere la consegna dei regali più emozionante! Questo progetto trasforma la consueta consegna di regali in un'esperienza divertente attraverso un quiz coinvolgente che porta a un regalo scaricabile speciale.
@@ -95,4 +92,3 @@ Questo progetto è concesso in licenza sotto la Licenza MIT - consulta il file [
 Un ringraziamento speciale a tutti i collaboratori e alle risorse che hanno reso possibile questo progetto!
 
 Buon quiz! 🎊
-```
