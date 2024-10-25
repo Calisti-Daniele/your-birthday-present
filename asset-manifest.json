@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Calisti-Daniele/your-birthday-present/static/css/main.0665e5b2.css",
-    "main.js": "/Calisti-Daniele/your-birthday-present/static/js/main.2554ba2a.js",
-    "static/js/453.27029a9d.chunk.js": "/Calisti-Daniele/your-birthday-present/static/js/453.27029a9d.chunk.js",
-    "static/media/progress_icon.png": "/Calisti-Daniele/your-birthday-present/static/media/progress_icon.f0d4032d82f723ed89f4.png",
-    "static/media/heart.png": "/Calisti-Daniele/your-birthday-present/static/media/heart.5c408cd3158e1e642e01.png",
-    "index.html": "/Calisti-Daniele/your-birthday-present/index.html",
-    "main.0665e5b2.css.map": "/Calisti-Daniele/your-birthday-present/static/css/main.0665e5b2.css.map",
-    "main.2554ba2a.js.map": "/Calisti-Daniele/your-birthday-present/static/js/main.2554ba2a.js.map",
-    "453.27029a9d.chunk.js.map": "/Calisti-Daniele/your-birthday-present/static/js/453.27029a9d.chunk.js.map"
+    "main.css": "/your-birthday-present/static/css/main.0665e5b2.css",
+    "main.js": "/your-birthday-present/static/js/main.00a6a555.js",
+    "static/js/453.27029a9d.chunk.js": "/your-birthday-present/static/js/453.27029a9d.chunk.js",
+    "static/media/progress_icon.png": "/your-birthday-present/static/media/progress_icon.f0d4032d82f723ed89f4.png",
+    "static/media/heart.png": "/your-birthday-present/static/media/heart.5c408cd3158e1e642e01.png",
+    "index.html": "/your-birthday-present/index.html",
+    "main.0665e5b2.css.map": "/your-birthday-present/static/css/main.0665e5b2.css.map",
+    "main.00a6a555.js.map": "/your-birthday-present/static/js/main.00a6a555.js.map",
+    "453.27029a9d.chunk.js.map": "/your-birthday-present/static/js/453.27029a9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0665e5b2.css",
-    "static/js/main.2554ba2a.js"
+    "static/js/main.00a6a555.js"
   ]
 }
